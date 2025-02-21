@@ -18,7 +18,7 @@ const Navbar = () => {
         <Button variant="ghost" size="sm" as={RouterLink} to="/" colorScheme="teal">Home</Button>
         <Button variant="ghost" size="sm" as={RouterLink} to="/about" colorScheme="teal">About</Button>
         <Button variant="ghost" size="sm" as={RouterLink} to="/dashboard" colorScheme="teal">Dashboard</Button>
-        <Button variant="ghost" size="sm">Click me</Button>
+        <Button variant="ghost" size="sm">Login</Button>
       </div>
 
       <div className='containerNavbarLeft' >
