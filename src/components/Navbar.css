@@ -1,4 +1,10 @@
 .navbarStyle {
+    display: flex;
+    justify-content: space-between;
     height: 70px;
     padding: 15px;
+}
+
+.containerNavbarLeft {
+    display: flex;
 }
